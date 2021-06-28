@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/27 19:20:57.000.507,C:\PostoCombustivel\uImpRelatorio.pas=</Transaction>
+    <Transaction>2021/06/27 19:25:28.000.621,=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 19:25:41.000.010,C:\PostoCombustivel\uFormBase.dfm=C:\PostoCombustivel\Unit1.dfm</Transaction>
+    <Transaction>2021/06/27 19:25:41.000.010,C:\PostoCombustivel\uFormBase.pas=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 19:29:12.000.065,=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 19:29:18.000.861,C:\PostoCombustivel\uAbastecimento.dfm=C:\PostoCombustivel\Unit1.dfm</Transaction>
+    <Transaction>2021/06/27 19:29:18.000.861,C:\PostoCombustivel\uAbastecimento.pas=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 19:43:23.000.996,=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 20:02:48.000.491,C:\PostoCombustivel\uAbastecer.pas=</Transaction>
+    <Transaction>2021/06/27 20:18:29.000.123,=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 20:48:31.000.982,=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 20:53:21.000.688,C:\PostoCombustivel\uArquivoConexao.dfm=C:\PostoCombustivel\Unit1.dfm</Transaction>
+    <Transaction>2021/06/27 20:53:21.000.688,C:\PostoCombustivel\uArquivoConexao.pas=C:\PostoCombustivel\Unit1.pas</Transaction>
+    <Transaction>2021/06/28 04:54:45.836,=C:\PostoCombustivel\Fontes\uImpRelatorio.pas</Transaction>
+  </Transactions>
+</BorlandProject>
